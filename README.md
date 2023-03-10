@@ -2,7 +2,7 @@
 ### Una herramienta simple que permite juntar varios archivos de audio, separados por silencios, en un solo archivo de audio.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/XxNessuxX/Juntador-de-audios./blob/main/Juntador_de_audios.ipynb)
-ç
+
 
 Este código es una herramienta útil para juntar varios archivos de audio en un solo archivo de audio, separados por silencios de duración definida por el usuario. Está escrito en Python utilizando la biblioteca PyDub para trabajar con archivos de audio.
 
